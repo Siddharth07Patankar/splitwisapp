@@ -1,6 +1,7 @@
 # Expense Sharing System Readme
 
 ## System Architecture
+attached to github repo named diagramdraw.io
 
 ### Components
 - **Flask Application**: The core of the system built using the Flask web framework.
